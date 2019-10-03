@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobidiagUnitTests", "MobidiagUnitTests.csproj", "{110A478C-1482-4920-B1B2-1FAC3C072663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeSummation", "..\PrimeSummation\PrimeSummation.csproj", "{7C16D9FF-C042-44CE-A70D-EB908D46BF25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenFibonacciNumbers", "..\EvenFibonacciNumbers\EvenFibonacciNumbers.csproj", "{1767C282-99B5-48A9-9F05-A0C3BC3145FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollatzSequence", "..\CollatzSequence\CollatzSequence.csproj", "{9BF763D0-B9AA-4303-B7BC-AE6D7CB0B01C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110A478C-1482-4920-B1B2-1FAC3C072663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110A478C-1482-4920-B1B2-1FAC3C072663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110A478C-1482-4920-B1B2-1FAC3C072663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110A478C-1482-4920-B1B2-1FAC3C072663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C16D9FF-C042-44CE-A70D-EB908D46BF25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C16D9FF-C042-44CE-A70D-EB908D46BF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C16D9FF-C042-44CE-A70D-EB908D46BF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C16D9FF-C042-44CE-A70D-EB908D46BF25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1767C282-99B5-48A9-9F05-A0C3BC3145FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1767C282-99B5-48A9-9F05-A0C3BC3145FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1767C282-99B5-48A9-9F05-A0C3BC3145FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1767C282-99B5-48A9-9F05-A0C3BC3145FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF763D0-B9AA-4303-B7BC-AE6D7CB0B01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF763D0-B9AA-4303-B7BC-AE6D7CB0B01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF763D0-B9AA-4303-B7BC-AE6D7CB0B01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF763D0-B9AA-4303-B7BC-AE6D7CB0B01C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87C29925-4168-4282-A784-AAC3AEC1877C}
+	EndGlobalSection
+EndGlobal
