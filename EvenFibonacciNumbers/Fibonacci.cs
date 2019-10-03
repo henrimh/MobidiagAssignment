@@ -37,6 +37,7 @@ namespace Fibonacci
             sum = SumEvenNumbersUpTo(param);
 
             Console.WriteLine(sum);
+            Console.ReadKey();
         }
     }
 }

@@ -51,6 +51,7 @@ namespace PrimeSummation
 
             //sum should be 142913828922
             Console.WriteLine(sum);
+            Console.ReadKey();
         }
 
     }

@@ -53,6 +53,7 @@ namespace Collatz
             answer = SolveLongestSequenceStartingUnder(param);
 
             Console.WriteLine(answer);
+            Console.ReadKey();
         }
     }
 }
