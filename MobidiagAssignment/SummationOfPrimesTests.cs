@@ -14,7 +14,7 @@ namespace MobidiagUnitTests
             long result;
 
             // act
-            result = PrimeSummation.SumAllPrimesBelow(param);
+            result = PrimeSummation.PrimeSummation.SumAllPrimesBelow(param);
 
             // assert
             Assert.AreEqual(expected, result);           

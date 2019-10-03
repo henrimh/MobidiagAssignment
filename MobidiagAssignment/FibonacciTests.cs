@@ -17,7 +17,7 @@ namespace MobidiagUnitTests
             int expected = 44;
             int result;
 
-            result = Fibonacci.Fibonacci.SumEvenNumbersUpTo(100);
+            result = Fibonacci.Fibonacci.SumEvenNumbersUpTo(param);
 
             Assert.AreEqual(result, expected);
         }

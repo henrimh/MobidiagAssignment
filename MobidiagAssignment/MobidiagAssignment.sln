@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenFibonacciNumbers", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollatzSequence", "..\CollatzSequence\CollatzSequence.csproj", "{9BF763D0-B9AA-4303-B7BC-AE6D7CB0B01C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobidiagGUI", "..\MobidiagGUI\MobidiagGUI.csproj", "{0A56DC9C-A9C0-4723-B4F9-9EBBE9B92511}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9BF763D0-B9AA-4303-B7BC-AE6D7CB0B01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BF763D0-B9AA-4303-B7BC-AE6D7CB0B01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BF763D0-B9AA-4303-B7BC-AE6D7CB0B01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A56DC9C-A9C0-4723-B4F9-9EBBE9B92511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A56DC9C-A9C0-4723-B4F9-9EBBE9B92511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A56DC9C-A9C0-4723-B4F9-9EBBE9B92511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A56DC9C-A9C0-4723-B4F9-9EBBE9B92511}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
